@@ -141,10 +141,16 @@
             </div>
             <div class="services-col">
                 <div class="service-item">
-                    <div class="service-overlay" id="service"></div>
+                    <div class="service-overlay" id="service9"></div>
+                    <div class="service-caption">
+                        <h4>Travel & Transportation</h4>
+                    </div>
                 </div>
                 <div class="service-item">
-                    <div class="service-overlay" id="service"></div>
+                    <div class="service-overlay" id="service10"></div>
+                    <div class="service-caption">
+                        <h4>Post Production</h4>
+                    </div>
                 </div>
             </div>
         </div>
